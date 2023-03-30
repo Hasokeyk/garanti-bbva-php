@@ -1,6 +1,13 @@
 # Garanti BBVA Php Kütüphanesi
 Bu kütüphane ile garanti bbva apileri ile banka hesabınızla ilgili para giriş çıkışını veya hesap bakiyesi gibi işlemleri yapabilirsiniz.
 
+## Nasıl kurulur?
+```shell
+composer require hasokeyk/garanti-bbva-php
+```
+
+Yukarıdaki komutu kullarak kütüphaneyi projenize dahil edebilirsiniz.
+
 ## Ne amaçla kullanılır?
 Crm yazılımlarınızda havale ile gelecek olan para girişlerini, muhasebesel olarak eşleştirebilirsiniz.
 
