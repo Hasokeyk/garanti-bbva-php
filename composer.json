@@ -1,0 +1,33 @@
+{
+  "name": "hasokeyk/garanti-bbva-php",
+  "authors": [
+    {
+      "name": "Hasan Yüksektepe",
+      "email": "hasanhasokeyk@hotmail.com",
+      "homepage": "https://hayatikodla.net",
+      "role": "Developer"
+    }
+  ],
+  "type": "library",
+  "keywords": [
+    "Garanti",
+    "Garanti BBVA",
+    "Banka alma",
+    "Garanti havale"
+  ],
+  "homepage": "https://hayatikodla.net",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "Hasokeyk\\GarantiBBVA\\": "src/GarantiBBVA"
+    }
+  },
+  "require": {
+    "ext-simplexml": "*",
+    "ext-dom": "*",
+    "ext-xmlwriter": "*",
+    "ext-zip": "*",
+    "guzzlehttp/guzzle": "7.0"
+  }
+}
