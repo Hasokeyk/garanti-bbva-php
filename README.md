@@ -64,7 +64,7 @@ Kişisel hesaplarınız maalesef ki kullanamıyorsunuz. Kurumsal hesaplarınız�
 2. Üst menüden "Başvur" menüsünün üstün gelin ve "Elektronik Hesap Özeti (EHÖ)" menüsüne tıklayın.
 3. Açılan sayfada sizden client_id isteyecektir. Uygulamanızda oluşturduğunuz client_id yi buraya girin. 36 haneli bir id olması lazım eğer size verilen client_id 34 hane ise başına 0 eklerek 36 hane ile tamamlayın.
 4. Yeni açılan ekranda hangi hesaplara erişim vereceğinizi seçmelisiniz.
-5. Şimdi geldik benide şoka uğratan bölüme. Aylık 194tl ye bu api hizmetini kullanabilirsunuz. Bu garanti bankasının sizden aylık olarak keseceği para. Bu işlemide geçince başvurunu alınacak ve size consentId tanımlanacak. 
+5. Şimdi geldik benide şoka uğratan bölüme. Aylık 194tl ye bu api hizmetini kullanabiliyorsunuz. Bu garanti bankasının sizden aylık olarak keseceği para. Bu işlemide geçince başvurunu alınacak ve size consentId tanımlanacak. 
 6. Bu consentId ile kütüphaneyi kullanarak bilgileri alabilirsiniz.
 
 
